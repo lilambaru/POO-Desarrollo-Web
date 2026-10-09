@@ -34,7 +34,7 @@ Resultado obtenido:
 - Color: negro
 - Extras: TV
 
-![Resultado del problema 1](imagenes/problema1.png)
+![Resultado del problema 1](imagenes/captura1.png)
 
 ### Problema 2: Ejecución en PHP
 
@@ -42,25 +42,25 @@ Se ejecutó el segundo ejercicio en PHP, obteniendo como resultado la letra B.
 
 **Resultado obtenido:** B
 
-![Resultado del problema 2](imagenes/problema2.png)
+![Resultado del problema 2](imagenes/captura2.png)
 
 ### Problema 3: Ejecución en PHP
 
 Se desarrolló el tercer ejercicio utilizando PHP, aplicando los conceptos de programación estudiados en clase.
 
-![Resultado del problema 3](imagenes/problema3.png)
+![Resultado del problema 3](imagenes/captura3.png)
 
 ### Problema 4: Ejecución en PHP
 
 Se desarrolló el cuarto ejercicio utilizando PHP para comprobar el funcionamiento del código y visualizar los resultados en el navegador.
 
-![Resultado del problema 4](imagenes/problema4.png)
+![Resultado del problema 4](imagenes/captura4.png)
 
 ### Problema 5: Ejecución en PHP
 
 Se desarrolló el quinto ejercicio utilizando PHP, reforzando los conocimientos adquiridos durante el laboratorio.
 
-![Resultado del problema 5](imagenes/problema5.png)
+![Resultado del problema 5](imagenes/captura5.png)
 
 ## Proceso de instalación y ejecución
 
@@ -75,19 +75,19 @@ Para visualizar los resultados, se debe iniciar WampServer y acceder desde el na
 A continuación, se presentan las capturas de pantalla que demuestran el funcionamiento de los cinco ejercicios desarrollados en PHP.
 
 ### Evidencia 1: Problema 1
-![Captura 1](imagenes/captura1.png)
+![Captura 1](imagenes/problema1.png)
 
 ### Evidencia 2: Problema 2
-![Captura 2](imagenes/captura2.png)
+![Captura 2](imagenes/problema2.png)
 
 ### Evidencia 3: Problema 3
-![Captura 3](imagenes/captura3.png)
+![Captura 3](imagenes/problema3.png)
 
 ### Evidencia 4: Problema 4
 ![Captura 4](imagenes/captura4.png)
 
 ### Evidencia 5: Problema 5
-![Captura 5](imagenes/captura5.png)
+![Captura 5](imagenes/problema5.png)
 
 ## Autor y referencias
 
