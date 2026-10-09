@@ -36,9 +36,13 @@ Resultado obtenido:
 
 ![Resultado del problema 1](imagenes/problema1.png)
 
-### Problema 2
+### Problema 2: Ejecución en PHP
 
-Pendiente de incorporar la descripción y la evidencia del ejercicio.
+Se ejecutó el segundo ejercicio en PHP, obteniendo como resultado la letra B.
+
+**Resultado obtenido:** B
+
+![Resultado del problema 2](imagenes/problema2.png)
 
 ### Problema 3
 
