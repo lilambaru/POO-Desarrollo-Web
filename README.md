@@ -26,9 +26,15 @@ El objetivo principal fue comprender el funcionamiento de las clases, objetos, a
 
 En este laboratorio se realizaron cinco ejercicios prácticos, cada uno desarrollado en un archivo PHP independiente.
 
-### Problema 1
+### Problema 1: Herencia en PHP
 
-Pendiente de incorporar la descripción y la evidencia del ejercicio.
+Se implementaron clases y métodos utilizando herencia para mostrar las características de un coche.
+
+Resultado obtenido:
+- Color: negro
+- Extras: TV
+
+![Resultado del problema 1](imagenes/problema1.png)
 
 ### Problema 2
 
