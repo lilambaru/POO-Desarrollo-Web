@@ -84,7 +84,7 @@ A continuación, se presentan las capturas de pantalla que demuestran el funcion
 ![Captura 3](imagenes/problema3.png)
 
 ### Evidencia 4: Problema 4
-![Captura 4](imagenes/captura4.png)
+![Captura 4](imagenes/problema4.png)
 
 ### Evidencia 5: Problema 5
 ![Captura 5](imagenes/problema5.png)
