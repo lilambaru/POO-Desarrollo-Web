@@ -72,7 +72,22 @@ Para visualizar los resultados, se debe iniciar WampServer y acceder desde el na
 
 ## Evidencias del laboratorio
 
-En esta sección se incorporarán capturas del código desarrollado y de los resultados obtenidos durante la ejecución de cada problema.
+A continuación, se presentan las capturas de pantalla que demuestran el funcionamiento de los cinco ejercicios desarrollados en PHP.
+
+### Evidencia 1: Problema 1
+![Captura 1](imagenes/captura1.png)
+
+### Evidencia 2: Problema 2
+![Captura 2](imagenes/captura2.png)
+
+### Evidencia 3: Problema 3
+![Captura 3](imagenes/captura3.png)
+
+### Evidencia 4: Problema 4
+![Captura 4](imagenes/captura4.png)
+
+### Evidencia 5: Problema 5
+![Captura 5](imagenes/captura5.png)
 
 ## Autor y referencias
 
