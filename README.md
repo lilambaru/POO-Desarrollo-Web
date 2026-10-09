@@ -44,17 +44,23 @@ Se ejecutó el segundo ejercicio en PHP, obteniendo como resultado la letra B.
 
 ![Resultado del problema 2](imagenes/problema2.png)
 
-### Problema 3
+### Problema 3: Ejecución en PHP
 
-Pendiente de incorporar la descripción y la evidencia del ejercicio.
+Se desarrolló el tercer ejercicio utilizando PHP, aplicando los conceptos de programación estudiados en clase.
 
-### Problema 4
+![Resultado del problema 3](imagenes/problema3.png)
 
-Pendiente de incorporar la descripción y la evidencia del ejercicio.
+### Problema 4: Ejecución en PHP
 
-### Problema 5
+Se desarrolló el cuarto ejercicio utilizando PHP para comprobar el funcionamiento del código y visualizar los resultados en el navegador.
 
-Pendiente de incorporar la descripción y la evidencia del ejercicio.
+![Resultado del problema 4](imagenes/problema4.png)
+
+### Problema 5: Ejecución en PHP
+
+Se desarrolló el quinto ejercicio utilizando PHP, reforzando los conocimientos adquiridos durante el laboratorio.
+
+![Resultado del problema 5](imagenes/problema5.png)
 
 ## Proceso de instalación y ejecución
 
